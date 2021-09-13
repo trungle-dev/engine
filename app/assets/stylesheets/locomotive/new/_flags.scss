@@ -10,7 +10,7 @@
   // https://www.iconfinder.com/iconsets/flags_gosquared
   $locales: 'bf' 'bg' 'cs' 'da' 'de' 'el' 'en' 'es' 'et' 'fa-IR' 'fi-FI' 'fr'
     'hr' 'it' 'ja-JP' 'lt' 'mg' 'nb' 'nl' 'pl-PL' 'pt-BR' 'pt' 'ru' 'sk' 'sl'
-    'sr' 'sv' 'sv-FI' 'uk' 'zh-CN';
+    'sr' 'sv' 'sv-FI' 'uk' 'zh-CN' 'ar';
 
   @each $locale in $locales {
     &.flag-#{$locale} {
